@@ -45,7 +45,7 @@ http://<your-local-ip>/
 ## ⬇️ Download POC
 * If a website is vulnerable to clickjacking and is loading in the iframe, then you can download it's POC with ⬇️ Download PoC HTML button and send to company.
 * ⬇️ Download PoC HTML Button is only available when website is loading in iframe.
-* 
+  
 ## ✅ Result Logic
 1. If the iframe loads, the site is likely vulnerable to clickjacking.
 2. If blocked with a message like "Not Working: Site is protected with security headers," it means the site is protected by:
