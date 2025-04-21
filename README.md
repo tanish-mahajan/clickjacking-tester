@@ -48,3 +48,8 @@ http://<your-local-ip>/
 
 * X-Frame-Options: DENY/SAMEORIGIN
 * Content-Security-Policy: frame-ancestors
+
+## 📄 License
+
+This project is licensed under the MIT License.  
+© 2025 Tsecurity
